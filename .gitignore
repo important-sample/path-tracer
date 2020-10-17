@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+CMakeFiles/
+CMakeCache.txt
+*.cmake
+Makefile
+PathTracer
